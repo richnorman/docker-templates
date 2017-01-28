@@ -9,7 +9,7 @@ ntainer>
     [b]/var/games/minecraft[/b] : set this path to where you wish all the Minecraft Server items to be stored. Should be you app folder.[br][br]
     [b][span style='color: #E80000;']IMPORTANT - Open Advanced View to Set your PASSWORD!!![/b][/span][br][br]
   </Description>
-  <Registry>https://registry.hub.docker.com/u/richnorman/mineos/</Registry>
+  <Registry>https://hub.docker.com/r/richnorman/mineos/</Registry>
   <GitHub>https://github.com/richnorman/docker-mineos-j8</GitHub>
   <Repository>richnorman/mineos</Repository>
   <BindTime>true</BindTime>
